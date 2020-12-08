@@ -4,4 +4,4 @@ This directory contains a number of scripts designed to help with the Nextflow O
 
 https://github.com/luslab/oist-assembler
 
-for mor information.
+for more information.
